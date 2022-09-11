@@ -1,7 +1,4 @@
 -  @xanilao
 - Estou apredendo programação ...
+- E-mail para contato danilo.opata@escola.pr.gov.br
 
-<!---
-xanilao/xanilao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
